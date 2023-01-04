@@ -1,5 +1,4 @@
 const express = require("express");
-const { response } = require("../app");
 const controller = express.Router();
 
 const studentData = require("../studentData.json");
